@@ -5,7 +5,7 @@
 
 ---
 </div>
-##  About Me
+# About Me
 
 I am a Computer Science and Engineering graduate from **NIT Durgapur, India**, with interests in **Software Development, Artificial Intelligence, and Deep Reinforcement Learning**.
 
